@@ -1,0 +1,54 @@
+
+.main-img{
+	height: 200px;
+	width: 250px;
+}
+.card{
+	height: 400px;
+	width: 300px;
+}
+#main {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#pics{
+	height: 200px;
+	width: 250px;
+}
+.main-div{
+	height: 300px;
+	width: 250px;
+}
+.images{
+	height: 200px;
+	width: 200px;
+}
+#img-div{
+	height: 300px;
+	width: 300px;
+}
+#pic1{
+	height: 200px;
+	width: 200px;
+}
+#pic2{
+	height: 200px;
+	width: 200px;
+}
+#pic3{
+	height: 200px;
+	width: 200px;
+}
+.main-div-1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 16px;
+	
+}
+i{
+	height: 50px
+	width:30px;
+}
+
